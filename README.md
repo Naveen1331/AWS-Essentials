@@ -9,6 +9,6 @@ Create and Manage a Windows instance
 <li>
 Screenshot needed to submit
   <ol>SS1:ec2 dashboard with instance listed</ol>
-● ss2:ec2 instance details
-● ss3:windows screen after the successful launch
+  <ol>ss2:ec2 instance details</ol>
+  <ol>ss3:windows screen after the successful launch</ol>
   </li>
