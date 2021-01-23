@@ -5,7 +5,10 @@ Create and Manage a Windows instance
 3.Upload key pair file to get the password.
 4.Use the password to RDP into the instance.
 5.Terminate the instance
+<br>
+<li>
 Screenshot needed to submit
-● SS1:ec2 dashboard with instance listed
+  <ol>SS1:ec2 dashboard with instance listed</ol>
 ● ss2:ec2 instance details
 ● ss3:windows screen after the successful launch
+  </li>
