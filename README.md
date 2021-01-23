@@ -1,4 +1,4 @@
-# AWS-Essentials
+# AWS-Essentials-Assignment 1
 Create and Manage a Windows instance
 1.Choose a windows AMI and create an ec2 instance.
 2.Click on connect and move to the RDP client tab.
